@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/blend_JS_6_lesson/",
     "preview": "vite preview"
   },
   "devDependencies": {
