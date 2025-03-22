@@ -1,6 +1,6 @@
 - Створи apiInstance за допомогою бібліотеки axios. /_ https://axios-http.com/docs/instance _/
 
-Використовуй https://dummyjson.com як baseUrl.
+Використовуй https://dummyjson.com як baseURL.
 
 - Створи запити для отримання, додавання, видалення та оновлення даних.
   Запити розбиті на категорії posts, products, users.
